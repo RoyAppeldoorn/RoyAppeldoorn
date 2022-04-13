@@ -1,4 +1,4 @@
-## Hi, I'm Roy Appeldoorn
+## Hi, I'm Roy Appeldoorn 👋
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=RoyAppeldoorn&show_icons=true&theme=dark&count_private=true"  />
 <br/>
 
