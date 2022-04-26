@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=RoyAppeldoorn&show_icons=true&theme=dark&count_private=true"  />
 <br/>
 
-- 🔭 I'm a software student at Fontys University
+- 🔭 I'm a Software Engineering student at Fontys University
 - 💻 I’m currently graduating as a Technical Consultant at [Acolad Digital](https://www.acolad.com/nl.html);
 - 📫 How to reach me: <p>
     <a href="https://www.linkedin.com/in/roy-appeloorn/">
