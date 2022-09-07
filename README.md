@@ -2,8 +2,8 @@
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=RoyAppeldoorn&show_icons=true&theme=dark&count_private=true"  />
 <br/>
 
-- 🔭 I'm a Software Engineering student at Fontys University
-- 💻 I’m currently graduating as a Technical Consultant at [Acolad Digital](https://www.acolad.com/nl.html);
+- 🔭 I'm a Software Engineer who loves front-end development
+- 💻 I’m currently working as a front-end developer at [Kabisa](https://www.kabisa.nl/);
 - 📫 How to reach me: <p>
     <a href="https://www.linkedin.com/in/roy-appeloorn/">
     <img  alt="Roy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
